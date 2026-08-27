@@ -13,13 +13,51 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "LoadPriority": 0,
-        "Tags": ["dps", "meter", "parser", "iinact", "combat"],
-        "CategoryTags": ["ui"],
+        "Tags": [
+            "dps",
+            "meter",
+            "parser",
+            "iinact",
+            "combat"
+        ],
+        "CategoryTags": [
+            "ui"
+        ],
         "DownloadCount": 0,
         "LastUpdate": 0,
         "DownloadLinkInstall": "https://github.com/Enjuchan/EnDetailer/releases/latest/download/EnDetailer.zip",
         "DownloadLinkTesting": "https://github.com/Enjuchan/EnDetailer/releases/latest/download/EnDetailer.zip",
         "DownloadLinkUpdate": "https://github.com/Enjuchan/EnDetailer/releases/latest/download/EnDetailer.zip",
         "IconUrl": "https://raw.githubusercontent.com/Enjuchan/EnDetailer/main/EnDetailer/images/icon.png"
+    },
+    {
+        "Author": "Enjuchan",
+        "Name": "EnCounter",
+        "InternalName": "EnCounter",
+        "Punchline": "Counts what others do to you and shows it above your head.",
+        "Description": "Counts emotes and chat messages directed at you and briefly displays the tally as your title. Rules define which emotes, which trigger words and which channels count, what the message says and in which colours. Requires Honorific. Counts are stored locally and never leave your machine.",
+        "AssemblyVersion": "0.1.0.0",
+        "TestingAssemblyVersion": "0.1.0.0",
+        "RepoUrl": "https://github.com/Enjuchan/EnCounter",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 15,
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LoadPriority": 0,
+        "Tags": [
+            "title",
+            "counter",
+            "emote",
+            "chat",
+            "honorific"
+        ],
+        "CategoryTags": [
+            "other"
+        ],
+        "DownloadCount": 0,
+        "LastUpdate": 0,
+        "DownloadLinkInstall": "https://github.com/Enjuchan/EnCounter/releases/latest/download/EnCounter.zip",
+        "DownloadLinkTesting": "https://github.com/Enjuchan/EnCounter/releases/latest/download/EnCounter.zip",
+        "DownloadLinkUpdate": "https://github.com/Enjuchan/EnCounter/releases/latest/download/EnCounter.zip"
     }
 ]
