@@ -58,6 +58,7 @@
         "LastUpdate": 0,
         "DownloadLinkInstall": "https://github.com/Enjuchan/EnCounter/releases/latest/download/EnCounter.zip",
         "DownloadLinkTesting": "https://github.com/Enjuchan/EnCounter/releases/latest/download/EnCounter.zip",
-        "DownloadLinkUpdate": "https://github.com/Enjuchan/EnCounter/releases/latest/download/EnCounter.zip"
+        "DownloadLinkUpdate": "https://github.com/Enjuchan/EnCounter/releases/latest/download/EnCounter.zip",
+        "IconUrl": "https://raw.githubusercontent.com/Enjuchan/EnCounter/main/EnCounter/images/icon.png"
     }
 ]
