@@ -1,64 +1,95 @@
 [
-    {
-        "Author": "Enjuchan",
-        "Name": "EnDetailer",
-        "InternalName": "EnDetailer",
-        "Punchline": "A DPS meter that shows what you are doing right now.",
-        "Description": "Shows the damage you are actually dealing, averaged over a rolling time window instead of the whole fight, and keeps encounters together across cutscenes and downtime. Requires IINACT.",
-        "AssemblyVersion": "0.1.2.0",
-        "TestingAssemblyVersion": "0.1.2.0",
-        "RepoUrl": "https://github.com/Enjuchan/EnDetailer",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 15,
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LoadPriority": 0,
-        "Tags": [
-            "dps",
-            "meter",
-            "parser",
-            "iinact",
-            "combat"
-        ],
-        "CategoryTags": [
-            "ui"
-        ],
-        "DownloadCount": 0,
-        "LastUpdate": 0,
-        "DownloadLinkInstall": "https://github.com/Enjuchan/EnDetailer/releases/latest/download/EnDetailer.zip",
-        "DownloadLinkTesting": "https://github.com/Enjuchan/EnDetailer/releases/latest/download/EnDetailer.zip",
-        "DownloadLinkUpdate": "https://github.com/Enjuchan/EnDetailer/releases/latest/download/EnDetailer.zip",
-        "IconUrl": "https://raw.githubusercontent.com/Enjuchan/EnDetailer/main/EnDetailer/images/icon.png"
-    },
-    {
-        "Author": "Enjuchan",
-        "Name": "EnCounter",
-        "InternalName": "EnCounter",
-        "Punchline": "Counts what others do to you and shows it above your head.",
-        "Description": "Counts emotes and chat messages directed at you and briefly displays the tally as your title. Rules define which emotes, which trigger words and which channels count, what the message says and in which colours. Requires Honorific. Counts are stored locally and never leave your machine.",
-        "AssemblyVersion": "0.3.4.1",
-        "TestingAssemblyVersion": "0.3.4.1",
-        "RepoUrl": "https://github.com/Enjuchan/EnCounter",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 15,
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LoadPriority": 0,
-        "Tags": [
-            "title",
-            "counter",
-            "emote",
-            "chat",
-            "honorific"
-        ],
-        "CategoryTags": [
-            "other"
-        ],
-        "DownloadCount": 0,
-        "LastUpdate": 0,
-        "DownloadLinkInstall": "https://github.com/Enjuchan/EnCounter/releases/latest/download/EnCounter.zip",
-        "DownloadLinkTesting": "https://github.com/Enjuchan/EnCounter/releases/latest/download/EnCounter.zip",
-        "DownloadLinkUpdate": "https://github.com/Enjuchan/EnCounter/releases/latest/download/EnCounter.zip",
-        "IconUrl": "https://raw.githubusercontent.com/Enjuchan/EnCounter/main/EnCounter/images/icon.png"
-    }
+  {
+    "Author": "Enjuchan",
+    "Name": "EnDetailer",
+    "InternalName": "EnDetailer",
+    "Punchline": "A DPS meter that shows what you are doing right now.",
+    "Description": "Shows the damage you are actually dealing, averaged over a rolling time window instead of the whole fight, and keeps encounters together across cutscenes and downtime. Requires IINACT.",
+    "AssemblyVersion": "0.1.2.0",
+    "TestingAssemblyVersion": "0.1.2.0",
+    "RepoUrl": "https://github.com/Enjuchan/EnDetailer",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LoadPriority": 0,
+    "Tags": [
+      "dps",
+      "meter",
+      "parser",
+      "iinact",
+      "combat"
+    ],
+    "CategoryTags": [
+      "ui"
+    ],
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://github.com/Enjuchan/EnDetailer/releases/latest/download/EnDetailer.zip",
+    "DownloadLinkTesting": "https://github.com/Enjuchan/EnDetailer/releases/latest/download/EnDetailer.zip",
+    "DownloadLinkUpdate": "https://github.com/Enjuchan/EnDetailer/releases/latest/download/EnDetailer.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Enjuchan/EnDetailer/main/EnDetailer/images/icon.png"
+  },
+  {
+    "Author": "Enjuchan",
+    "Name": "EnCounter",
+    "InternalName": "EnCounter",
+    "Punchline": "Counts what others do to you and shows it above your head.",
+    "Description": "Counts emotes and chat messages directed at you and briefly displays the tally as your title. Rules define which emotes, which trigger words and which channels count, what the message says and in which colours. Requires Honorific. Counts are stored locally and never leave your machine.",
+    "AssemblyVersion": "0.3.4.1",
+    "TestingAssemblyVersion": "0.3.4.1",
+    "RepoUrl": "https://github.com/Enjuchan/EnCounter",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LoadPriority": 0,
+    "Tags": [
+      "title",
+      "counter",
+      "emote",
+      "chat",
+      "honorific"
+    ],
+    "CategoryTags": [
+      "other"
+    ],
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://github.com/Enjuchan/EnCounter/releases/latest/download/EnCounter.zip",
+    "DownloadLinkTesting": "https://github.com/Enjuchan/EnCounter/releases/latest/download/EnCounter.zip",
+    "DownloadLinkUpdate": "https://github.com/Enjuchan/EnCounter/releases/latest/download/EnCounter.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Enjuchan/EnCounter/main/EnCounter/images/icon.png"
+  },
+  {
+    "Author": "Enjuchan",
+    "Name": "EnMotion",
+    "InternalName": "EnMotion",
+    "Punchline": "Shows which emotes your mods change, and plays them.",
+    "Description": "Lists emotes, dances and idle poses altered by Penumbra mods, plays them with one click and lets you pin favourites. Idle poses can be picked directly instead of cycling through them. Requires Penumbra.",
+    "AssemblyVersion": "0.1.0.0",
+    "TestingAssemblyVersion": "0.1.0.0",
+    "RepoUrl": "https://github.com/Enjuchan/EnMotion",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LoadPriority": 0,
+    "Tags": [
+      "emote",
+      "penumbra",
+      "mods",
+      "pose",
+      "dance"
+    ],
+    "CategoryTags": [
+      "other"
+    ],
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://github.com/Enjuchan/EnMotion/releases/latest/download/EnMotion.zip",
+    "DownloadLinkTesting": "https://github.com/Enjuchan/EnMotion/releases/latest/download/EnMotion.zip",
+    "DownloadLinkUpdate": "https://github.com/Enjuchan/EnMotion/releases/latest/download/EnMotion.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Enjuchan/EnMotion/main/EnMotion/images/icon.png"
+  }
 ]
