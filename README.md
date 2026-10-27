@@ -16,6 +16,7 @@ One entry covers every plugin listed below — you only ever add this repository
 | [EnDetailer](https://github.com/Enjuchan/EnDetailer) | A DPS meter showing what you are doing right now, over a rolling time window instead of the whole fight. Requires IINACT. |
 | [EnCounter](https://github.com/Enjuchan/EnCounter) | Counts emotes and chat messages directed at you and shows the tally as your title. Requires Honorific. |
 | [EnMotion](https://github.com/Enjuchan/EnMotion) | Shows which emotes your Penumbra mods change, plays them with one click, and lets you pick idle poses directly. Requires Penumbra. |
+| [EnGlam](https://github.com/Enjuchan/EnGlam) | Pick the glamour you want, press start, and let AutoDuty farm the duties that drop it until it's yours. Requires AutoDuty and a rotation plugin. |
 
 ## Adding a new plugin
 

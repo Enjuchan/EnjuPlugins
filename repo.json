@@ -91,5 +91,35 @@
     "DownloadLinkTesting": "https://github.com/Enjuchan/EnMotion/releases/latest/download/EnMotion.zip",
     "DownloadLinkUpdate": "https://github.com/Enjuchan/EnMotion/releases/latest/download/EnMotion.zip",
     "IconUrl": "https://raw.githubusercontent.com/Enjuchan/EnMotion/main/EnMotion/images/icon.png"
+  },
+  {
+    "Author": "Enjuchan",
+    "Name": "EnGlam",
+    "InternalName": "EnGlam",
+    "Punchline": "Pick the glamour you want, press start, and let your other plugins farm it.",
+    "Description": "Finds the duties that drop the items you select and has AutoDuty run them one at a time until each item is in your inventory. Tells AutoDuty which rotation plugin to use, rolls Need on the items you are after in groups, keeps a farming history, and installs missing dependencies. Requires AutoDuty and a rotation plugin (Boss Mod, Wrath Combo or Rotation Solver Reborn). Drop data from LuminaSupplemental.",
+    "AssemblyVersion": "0.1.0.0",
+    "TestingAssemblyVersion": "0.1.0.0",
+    "RepoUrl": "https://github.com/Enjuchan/EnGlam",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LoadPriority": 0,
+    "Tags": [
+      "glamour",
+      "farming",
+      "autoduty",
+      "dungeon"
+    ],
+    "CategoryTags": [
+      "other"
+    ],
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://github.com/Enjuchan/EnGlam/releases/latest/download/EnGlam.zip",
+    "DownloadLinkTesting": "https://github.com/Enjuchan/EnGlam/releases/latest/download/EnGlam.zip",
+    "DownloadLinkUpdate": "https://github.com/Enjuchan/EnGlam/releases/latest/download/EnGlam.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Enjuchan/EnGlam/main/EnGlam/images/icon.png"
   }
 ]
